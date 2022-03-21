@@ -1,0 +1,56 @@
+
+
+.img{
+    width:6vw;
+    margin:3%;
+    display: flex;
+    align-items: center;
+    border-radius: 50% !important;
+}
+.card{
+    display: inline-flex !important;
+    flex-direction:row !important;
+}
+.Container{
+    margin:1rem 1.5rem;
+    background-color: #ffffff93;
+}
+.search .button{
+       color:blue;
+    border-color: aliceblue;
+    padding:9%
+}
+.btn-primary{
+    width:65%
+}
+#inputcolor::placeholder {
+    color: #ffffff;
+    opacity: 1;
+}
+.block{
+    align-items: flex-start;
+    max-height: auto;
+}
+/* .container{
+    background-color: white;
+    border:lightcyan;
+    margin-bottom: 1%;
+} */
+
+.searchbar{
+    text-align: left;
+    margin-left: 8%;
+    padding:2%;
+}
+.searchbarfeild{
+    text-align: left;
+    margin-left: 2%;
+    padding: 4%;
+}
+
+.card-title{
+    font-size: clamp(0.5em,2.5vw,3.5em);
+}
+p{
+    font-size: clamp(0.25em,1.5vw,2vw);
+}

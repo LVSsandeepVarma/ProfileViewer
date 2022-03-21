@@ -1,0 +1,11 @@
+.Card{
+    width:95%
+}
+.image{
+    width:5vw;
+    height: auto;
+    margin:3%;
+    display: flex;
+    align-items: center;
+    border-radius: 50% !important;
+}
